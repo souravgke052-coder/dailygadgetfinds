@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50" fill="none">
+  <!-- Phone body -->
+  <rect x="5" y="5" width="20" height="40" rx="3" fill="#111827" stroke="#2563EB" stroke-width="1.5"/>
+  <!-- Screen -->
+  <rect x="8" y="10" width="14" height="26" rx="1" fill="#2563EB"/>
+  <!-- Home button -->
+  <circle cx="15" cy="40" r="2" fill="#2563EB"/>
+  <!-- Spark/checkmark accent -->
+  <path d="M30 15 L35 20 L32 23 L38 28 L33 25 L30 30" stroke="#2563EB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Text: Daily Gadget Finds -->
+  <text x="45" y="30" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#111827">Daily Gadget Finds</text>
+</svg>
