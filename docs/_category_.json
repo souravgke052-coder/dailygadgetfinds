@@ -1,0 +1,8 @@
+{
+  "label": "Categories",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Browse mobile accessory categories"
+  }
+}
