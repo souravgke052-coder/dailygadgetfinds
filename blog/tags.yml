@@ -1,0 +1,47 @@
+chargers:
+  label: Chargers
+  description: Reviews and guides for phone chargers, wireless chargers, and charging accessories.
+
+power-banks:
+  label: Power Banks
+  description: Portable power bank reviews and buying guides for staying charged on the go.
+
+earbuds:
+  label: Earbuds
+  description: Wireless earbuds, earphones, and audio gear reviews.
+
+cases:
+  label: Cases
+  description: Phone cases, protective covers, and screen protectors.
+
+cables:
+  label: Cables
+  description: USB-C, Lightning, and other charging cable reviews and recommendations.
+
+budget:
+  label: Budget
+  description: Affordable mobile accessories that deliver great value without breaking the bank.
+
+student:
+  label: Student
+  description: Mobile accessories perfect for students - budget-friendly and practical picks.
+
+desk-setup:
+  label: Desk Setup
+  description: Accessories to enhance your workspace, from cable management to charging stations.
+
+travel:
+  label: Travel
+  description: Portable and travel-friendly mobile accessories for your journeys.
+
+buying-guide:
+  label: Buying Guide
+  description: Comprehensive buying guides to help you make informed purchasing decisions.
+
+review:
+  label: Review
+  description: In-depth product reviews with pros, cons, and detailed testing results.
+
+comparison:
+  label: Comparison
+  description: Head-to-head product comparisons to help you choose the best option.
