@@ -150,9 +150,9 @@ Use cable clips to keep charging cables in fixed positions. When not in use, bun
 
 ## Internal Links
 
-- [Best Phone Stands for Desk](/blog/best-phone-stands) - Top-rated options for every budget
-- [Wireless Chargers Guide](/blog/wireless-chargers-guide) - Everything you need to know
-- [Cable Management Tips](/blog/cable-management-tips) - Organize your workspace properly
+- Best Phone Stands for Desk - Top-rated options for every budget
+- Wireless Chargers Guide - Everything you need to know
+- Cable Management Tips - Organize your workspace properly
 
 ---
 

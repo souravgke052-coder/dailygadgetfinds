@@ -37,7 +37,7 @@ We evaluate sound quality, battery life, comfort, call performance, and real-wor
 
 **Call quality** — Multi-microphone arrays with ENC (Environmental Noise Cancellation) improve call clarity.
 
-**Latency** — Important for gaming and video. Lower latency (<100ms) provides better sync.
+**Latency** — Important for gaming and video. Lower latency (under 100ms) provides better sync.
 
 ## FAQ
 

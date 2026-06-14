@@ -91,7 +91,7 @@ function FooterCustom() {
             <a href="/docs/categories/power-banks" style={styles.link}>Power Banks</a>
             <a href="/docs/categories/earbuds" style={styles.link}>Earbuds</a>
             <a href="/docs/categories/cases" style={styles.link}>Cases</a>
-            <a href="/docs/categories/cables" style={styles.link}>Cables</a>
+            <a href="/docs/categories/buying-guides" style={styles.link}>Buying Guides</a>
           </div>
 
           <div style={styles.column}>
@@ -100,14 +100,14 @@ function FooterCustom() {
             <a href="/blog/tags/review" style={styles.link}>Reviews</a>
             <a href="/blog/tags/comparison" style={styles.link}>Comparisons</a>
             <a href="/blog/tags/budget" style={styles.link}>Budget Picks</a>
-            <a href="/blog/tags/best" style={styles.link}>Best Of</a>
+            <a href="/blog/tags/student" style={styles.link}>Student Picks</a>
           </div>
 
           <div style={styles.column}>
             <h4 style={styles.columnTitle}>Legal</h4>
             <a href="/privacy" style={styles.link}>Privacy Policy</a>
             <a href="/terms" style={styles.link}>Terms of Service</a>
-            <a href="/disclosure" style={styles.link}>Affiliate Disclosure</a>
+            <a href="/affiliate-disclosure" style={styles.link}>Affiliate Disclosure</a>
             <a href="/contact" style={styles.link}>Contact Us</a>
           </div>
         </div>

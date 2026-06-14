@@ -6,19 +6,19 @@ const comparisons = [
   {
     title: '20W vs 30W vs 65W Chargers',
     description: 'Compare charging speeds, efficiency, and value across power tiers.',
-    href: '/blog/charger-wattage-comparison',
+    href: '/blog/top-fast-chargers',
     items: ['20W - Phone Only', '30W - Phone + Tablet', '65W - Laptop Ready'],
   },
   {
     title: '10000mAh vs 20000mAh Power Banks',
     description: 'Which capacity truly fits your lifestyle and travel needs?',
-    href: '/blog/power-bank-capacity-guide',
+    href: '/blog/best-power-banks-under-1500',
     items: ['10000mAh - 1-2 Charges', '20000mAh - 3-4 Charges', 'Size & Weight Trade-off'],
   },
   {
     title: 'Wired vs Wireless Earbuds',
     description: 'Audio quality, latency, convenience, and battery life compared.',
-    href: '/blog/wired-vs-wireless-earbuds',
+    href: '/blog/best-earbuds-for-daily-use',
     items: ['Wired - Zero Latency', 'Wireless - Maximum Freedom', 'Hybrid Options Available'],
   },
 ];
@@ -113,14 +113,6 @@ const linkStyle = {
   textDecoration: 'none',
   marginTop: 'auto',
 };
-
-@media (max-width: 992px) {
-  gridStyle.gridTemplateColumns = 'repeat(2, 1fr)';
-}
-
-@media (max-width: 768px) {
-  gridStyle.gridTemplateColumns = '1fr';
-}
 
 export default function ComparisonSection() {
   return (

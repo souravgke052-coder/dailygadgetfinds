@@ -146,7 +146,7 @@ With proper care, a quality phone case lasts 1-2 years. Charging cables typicall
 ## Related Guides
 
 - [Best Power Banks Under 1500](/blog/best-power-banks-under-1500) - Top picks for reliable portable charging
-- [Best Charging Cables](/blog/best-charging-cables) - Durable cable options that last
+- [Best Charging Cables](/blog/best-charging-cable) - Durable cable options that last
 - [Best Earbuds for Daily Use](/blog/best-earbuds-for-daily-use) - Affordable audio options
 
 ---

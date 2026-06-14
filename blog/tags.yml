@@ -42,6 +42,10 @@ review:
   label: Review
   description: In-depth product reviews with pros, cons, and detailed testing results.
 
+essentials:
+  label: Essentials
+  description: Essential mobile accessories every smartphone user should have.
+
 comparison:
   label: Comparison
   description: Head-to-head product comparisons to help you choose the best option.

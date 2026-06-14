@@ -197,9 +197,9 @@ A dedicated cable organizer pouch keeps everything in one place and prevents cab
 ## Related Guides
 
 - [Best Power Banks Under 1500](/blog/best-power-banks-under-1500) - Portable charging options
-- [Best Charging Cables](/blog/best-charging-cables) - Durable cable options
+- [Best Charging Cables](/blog/best-charging-cable) - Durable cable options
 - [Best Earbuds for Daily Use](/blog/best-earbuds-for-daily-use) - Travel audio recommendations
-- [Phone Case Guide](/blog/phone-case-guide) - Protection for any situation
+- [Phone Case Guide](/blog/best-phone-cases) - Protection for any situation
 
 ---
 

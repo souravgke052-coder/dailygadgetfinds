@@ -209,9 +209,9 @@ With proper care, quality budget accessories typically last 1-2 years. Cables ma
 ## Related Guides
 
 - [Best Power Banks Under 1500](/blog/best-power-banks-under-1500) - Portable charging options
-- [Best Charging Cables](/blog/best-charging-cables) - Durable and reliable cables
+- [Best Charging Cables](/blog/best-charging-cable) - Durable and reliable cables
 - [Best Earbuds for Daily Use](/blog/best-earbuds-for-daily-use) - Audio recommendations
-- [Phone Case Guide](/blog/phone-case-guide) - Protection options
+- [Phone Case Guide](/blog/best-phone-cases) - Protection options
 - [Student Gadget Setup](/blog/student-gadget-setup) - Budget picks for students
 - [Desk Setup Under Budget](/blog/desk-setup-under-budget) - Workspace accessories
 
