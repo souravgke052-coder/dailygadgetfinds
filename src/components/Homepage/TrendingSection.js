@@ -45,18 +45,6 @@ const containerStyle = {
   padding: '0 var(--spacing-4)',
 };
 
-@media (max-width: 1200px) {
-  gridStyle.gridTemplateColumns = 'repeat(3, 1fr)';
-}
-
-@media (max-width: 992px) {
-  gridStyle.gridTemplateColumns = 'repeat(2, 1fr)';
-}
-
-@media (max-width: 768px) {
-  gridStyle.gridTemplateColumns = '1fr';
-}
-
 export default function TrendingSection() {
   return (
     <section style={sectionStyle}>

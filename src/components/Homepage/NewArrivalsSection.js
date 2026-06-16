@@ -118,10 +118,6 @@ const iconStyle = {
   transition: 'transform var(--transition-fast)',
 };
 
-@media (max-width: 768px) {
-  gridStyle.gridTemplateColumns = '1fr';
-}
-
 export default function NewArrivalsSection() {
   return (
     <section style={sectionStyle}>

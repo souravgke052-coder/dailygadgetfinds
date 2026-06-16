@@ -88,18 +88,6 @@ export default function BudgetFindsSection() {
     letterSpacing: '0.1em',
   };
 
-  @media (max-width: 1200px) {
-    gridStyle.gridTemplateColumns = 'repeat(3, 1fr)';
-  }
-
-  @media (max-width: 992px) {
-    gridStyle.gridTemplateColumns = 'repeat(2, 1fr)';
-  }
-
-  @media (max-width: 768px) {
-    gridStyle.gridTemplateColumns = '1fr';
-  }
-
   return (
     <section style={sectionStyle}>
       <div style={containerStyle}>

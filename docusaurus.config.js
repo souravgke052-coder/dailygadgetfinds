@@ -6,15 +6,15 @@ const config = {
   favicon: 'img/favicon.ico',
   url: 'https://dailygadgetfinds.com',
   baseUrl: '/',
-  organizationName: 'dailygadgetfinds',
+  organizationName: 'souravgke052-coder',
   projectName: 'dailygadgetfinds',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   i18n: {defaultLocale: 'en', locales: ['en']},
   presets: [
     ['classic', {
-      docs: {sidebarPath: './sidebars.js', editUrl: 'https://github.com/dailygadgetfinds/site/tree/main/', showLastUpdateTime: true},
-      blog: {showReadingTime: true, editUrl: 'https://github.com/dailygadgetfinds/site/tree/main/', authorsMapPath: 'authors.yml', tagsBasePath: 'tags', postsPerPage: 9, blogSidebarTitle: 'Recent Posts', blogSidebarCount: 5},
+      docs: {sidebarPath: './sidebars.js', editUrl: 'https://github.com/souravgke052-coder/dailygadgetfinds/tree/master/', showLastUpdateTime: true},
+      blog: {showReadingTime: true, editUrl: 'https://github.com/souravgke052-coder/dailygadgetfinds/tree/master/', authorsMapPath: 'authors.yml', tagsBasePath: 'tags', postsPerPage: 9, blogSidebarTitle: 'Recent Posts', blogSidebarCount: 5},
       theme: {customCss: './src/css/custom.css'}
     }]
   ],

@@ -130,11 +130,6 @@ const techDecorationStyle = {
   opacity: 0.2,
 };
 
-@media (max-width: 992px) {
-  featuredLayoutStyle.gridTemplateColumns = '1fr';
-  rightColumnStyle.gridTemplateRows = 'auto';
-}
-
 export default function TopPicksSection() {
   return (
     <section style={sectionStyle}>
