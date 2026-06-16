@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdaily_gadget_finds=self.webpackChunkdaily_gadget_finds||[]).push([[8158],{8158:(a,d,e)=>{e.r(d),e.d(d,{DocSearchModal:()=>s.a1});var s=e(3219)}}]);
