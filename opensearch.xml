@@ -4,8 +4,8 @@
   <ShortName>Daily Gadget Finds</ShortName>
   <Description>Search Daily Gadget Finds</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://dailygadgetfinds.com/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://dailygadgetfinds.com/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://dailygadgetfinds.com/opensearch.xml" />
-  <moz:SearchForm>https://dailygadgetfinds.com/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://souravgke052-coder.github.io/dailygadgetfinds/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://souravgke052-coder.github.io/dailygadgetfinds/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://souravgke052-coder.github.io/dailygadgetfinds/opensearch.xml" />
+  <moz:SearchForm>https://souravgke052-coder.github.io/dailygadgetfinds/</moz:SearchForm>
 </OpenSearchDescription>

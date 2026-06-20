@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdaily_gadget_finds=self.webpackChunkdaily_gadget_finds||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/dailygadgetfinds/blog","blogTitle":"Blog"}')}}]);

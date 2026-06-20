@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdaily_gadget_finds=self.webpackChunkdaily_gadget_finds||[]).push([[6159],{9730:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/dailygadgetfinds/blog/page/2","page":2,"postsPerPage":9,"totalPages":2,"totalCount":10,"previousPage":"/dailygadgetfinds/blog","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
