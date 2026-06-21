@@ -57,7 +57,7 @@ Our testing focused on what matters most for daily use:
 - 60W max (not enough for laptops)
 - Slightly thicker than budget options
 
-<AffiliateLink variant="primary" href="https://link.amazon/B077akqn3">Check Price on Amazon</AffiliateLink>
+<AffiliateLink variant="primary" href="https://link.amazon/B077akqn3?tag=dailygadge07f-21">Check Price on Amazon</AffiliateLink>
 
 #### Spigen USB-C to USB-C (100W E-Marker)
 **Best for:** Users who need laptop charging capability
