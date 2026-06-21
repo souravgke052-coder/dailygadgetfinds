@@ -79,7 +79,7 @@ Our testing focused on what matters most for daily use:
 - Heavier than lighter cables
 - Limited color options
 
-<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
+<AffiliateLink variant="primary" href="https://link.amazon/B03ZcOpG4?tag=dailygadge07f-21">Check Price on Amazon</AffiliateLink>
 
 ### Lightning Cables
 
