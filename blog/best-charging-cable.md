@@ -57,7 +57,7 @@ Our testing focused on what matters most for daily use:
 - 60W max (not enough for laptops)
 - Slightly thicker than budget options
 
-<AffiliateLink variant="primary" href="https://link.amazon/B0gDyz9Ha">Check Price on Amazon</AffiliateLink>
+<AffiliateLink variant="primary" href="https://www.amazon.in/Anker-Charging-MacBook-Galaxy-Charger/dp/B088NRLMPV?crid=2Q4W1R0473NC9&dib=eyJ2IjoiMSJ9.vfEA2LAQEChU91WS-IdcSqx3WMTajSd2UX3c3IgcQp36OLqxnIGmp5xecb0zoQvSp6OlIcYO2xGaa6VprPElf_1yHPg4zfAufv9msBdNcRtlDZ7xmnu6U3pwDeafLkip.b1LtSoU3Xu6-TK1RhoIXhqBG4caVo0JEndAfhGRhIFw&dib_tag=se&keywords=anker%2B643%2Busb-c%2Bto%2Busb-c%2B%2860w%29&nsdOptOutParam=true&qid=1782060254&sprefix=%2Caps%2C932&sr=8-1&th=1&linkCode=ll2&tag=dailygadge07f-21&linkId=c7e4f2870913d28cbc8c9776368de2e8&ref_=as_li_ss_tl">Check Price on Amazon</AffiliateLink>
 
 #### Spigen USB-C to USB-C (100W E-Marker)
 **Best for:** Users who need laptop charging capability
@@ -79,7 +79,7 @@ Our testing focused on what matters most for daily use:
 - Heavier than lighter cables
 - Limited color options
 
-<AffiliateLink variant="primary" href="https://link.amazon/B06Awurkd">Check Price on Amazon</AffiliateLink>
+<AffiliateLink variant="primary" href="https://www.amazon.in/Spigen-Marker-Durable-Compatible-Wearable/dp/B0FJQQSMGK?crid=3SYWXC69X62J7&dib=eyJ2IjoiMSJ9.EvesexFDy1X82NtpMN1uuUGjfufjoq31STjWo06CJIT2wiAd0tYjKqbwnkLMVEqQVYKD2FhPZn4MsQzkj3LK3HgCxqRK_554QlmUIaHAg9nzjkRPHfnVy5lLxFX6LWY5Ya-MEwb-1e_EXg7NAjlS0p4D9eCGzWWnqdTAhJobfplbfkVclFGh4rUx6kfaTuOTmYKDYxXHkd-iXb7d4OlKgCSYo0RW8r62WaaLIkKumxg.c-HUy3GMHL-mBt40Hvo9lnDgiWRVwA4KXoGulxeRMMI&dib_tag=se&keywords=Spigen%2BUSB-C%2Bto%2BUSB-C%2B%28100W%2BE-%2BMarker%29&nsdOptOutParam=true&qid=1782056679&sprefix=spigen%2Busb-c%2Bto%2Busb-c%2B100w%2Be-%2Bmarker%2B%2Caps%2C424&sr=8-2&th=1&linkCode=ll2&tag=dailygadge07f-21&linkId=753d9ffc5be2e0efe11a6e8dbfdaf4d0&ref_=as_li_ss_tl">Check Price on Amazon</AffiliateLink>
 
 ### Lightning Cables
 
