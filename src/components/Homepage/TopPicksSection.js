@@ -6,7 +6,7 @@ const topPicks = {
   featured: {
     title: 'Best Overall: 65W GaN Charger',
     description: 'Our top recommendation for most users. Delivers fast charging for phones, tablets, and laptops in a compact form factor.',
-    href: '/blog/best-65w-gan-charger',
+    href: '/blog/top-fast-chargers',
     badge: 'Best Overall',
     price: '₹1,499',
   },
@@ -14,14 +14,14 @@ const topPicks = {
     {
       title: 'Best Budget Power Bank',
       description: 'Reliable 10000mAh capacity with 18W fast charging support.',
-      href: '/blog/best-budget-power-bank',
+      href: '/blog/best-power-banks-under-1500',
       badge: 'Budget Pick',
       price: '₹799',
     },
     {
       title: 'Best ANC Earbuds',
       description: 'Premium sound quality with effective noise cancellation.',
-      href: '/blog/best-anc-earbuds-under-5000',
+      href: '/blog/best-earbuds-for-daily-use',
       badge: 'Premium Pick',
       price: '₹4,999',
     },
@@ -39,30 +39,6 @@ const containerStyle = {
   padding: '0 var(--spacing-4)',
 };
 
-const featuredLayoutStyle = {
-  display: 'grid',
-  gridTemplateColumns: '1fr 1fr',
-  gap: 'var(--spacing-6)',
-};
-
-const rightColumnStyle = {
-  display: 'grid',
-  gridTemplateRows: '1fr 1fr',
-  gap: 'var(--spacing-6)',
-};
-
-const featuredCardStyle = {
-  backgroundColor: 'var(--color-surface)',
-  border: '1px solid var(--color-border)',
-  borderRadius: 'var(--border-radius-xl)',
-  overflow: 'hidden',
-  transition: 'all var(--transition-normal)',
-  height: '100%',
-  display: 'flex',
-  flexDirection: 'column',
-  cursor: 'pointer',
-};
-
 const articleStyle = {
   position: 'relative',
   padding: 'var(--spacing-10)',
@@ -73,6 +49,8 @@ const articleStyle = {
   display: 'flex',
   flexDirection: 'column',
   justifyContent: 'flex-end',
+  textDecoration: 'none',
+  transition: 'transform 250ms ease',
 };
 
 const articleTitleStyle = {
@@ -131,6 +109,8 @@ const techDecorationStyle = {
 };
 
 export default function TopPicksSection() {
+  const [hovered, setHovered] = React.useState(false);
+
   return (
     <section style={sectionStyle}>
       <div style={containerStyle}>
@@ -138,16 +118,18 @@ export default function TopPicksSection() {
           title="Top Picks This Month"
           subtitle="Our highest-recommendation products across categories"
         />
-        <div style={featuredLayoutStyle}>
-          <div style={featuredCardStyle}>
-            <div style={articleStyle}
-              onClick={() => window.location.href = topPicks.featured.href}
-              onMouseEnter={(e) => {
-                e.currentTarget.style.transform = 'scale(1.02)';
+        <div className="toppicks-grid">
+          <div className="toppicks-featured">
+            <a
+              href={topPicks.featured.href}
+              style={{
+                ...articleStyle,
+                transform: hovered ? 'scale(1.02)' : 'scale(1)',
               }}
-              onMouseLeave={(e) => {
-                e.currentTarget.style.transform = 'scale(1)';
-              }}>
+              onMouseEnter={() => setHovered(true)}
+              onMouseLeave={() => setHovered(false)}
+              aria-label={`View details for ${topPicks.featured.title}`}
+            >
               <span style={techDecorationStyle}>⚡</span>
               <span style={badgeStyle}>{topPicks.featured.badge}</span>
               <h3 style={articleTitleStyle}>{topPicks.featured.title}</h3>
@@ -156,9 +138,9 @@ export default function TopPicksSection() {
               <span style={articleLinkStyle}>
                 View Details →
               </span>
-            </div>
+            </a>
           </div>
-          <div style={rightColumnStyle}>
+          <div className="toppicks-right">
             {topPicks.secondary.map((pick, index) => (
               <ProductCard
                 key={index}

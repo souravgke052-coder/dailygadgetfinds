@@ -9,9 +9,8 @@ export default function HeroSection() {
   const sectionStyle = {
     position: 'relative',
     overflow: 'hidden',
-    padding: 'var(--spacing-20) var(--spacing-6)',
     textAlign: 'center',
-    minHeight: '600px',
+    minHeight: 'auto',
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
@@ -144,7 +143,7 @@ export default function HeroSection() {
   };
 
   return (
-    <section style={sectionStyle}>
+    <section className="hero-section" style={sectionStyle}>
       <div style={backgroundStyle} />
       <div style={patternStyle} />
       <div style={contentStyle}>

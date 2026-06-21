@@ -38,7 +38,7 @@ Look for a 10000mAh capacity as the sweet spot. It provides roughly 2-3 full cha
 - Fast charging support to minimize downtime between classes
 - LED indicator to know exactly how much charge remains
 
-[View Deal](#)
+<AffiliateLink variant="neutral" href="#">View Deal</AffiliateLink>
 
 ### Charging Cable
 
@@ -51,7 +51,7 @@ Invest in a braided cable for durability. They resist tangling and withstand the
 - Lightning cables for iPhone users
 - Always carry a spare in your bag
 
-[View Deal](#)
+<AffiliateLink variant="neutral" href="#">View Deal</AffiliateLink>
 
 ### Phone Stand
 
@@ -59,7 +59,7 @@ A phone stand transforms how you study. Prop your phone up during video lectures
 
 Adjustable stands offer the most versatility. You can switch between portrait and landscape orientations depending on your task.
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 ### Basic Earbuds
 
@@ -72,7 +72,7 @@ You don't need expensive audio equipment. Basic wireless earbuds provide the noi
 - Compact charging case that fits in a pencil case
 - Touch controls so you can skip tracks without pulling out your phone
 
-[Buy Now](#)
+<AffiliateLink variant="primary" href="#">Buy Now</AffiliateLink>
 
 ### Phone Case
 
@@ -80,7 +80,7 @@ Your smartphone is likely one of your most valuable possessions. Protect it with
 
 Tempered glass screen protectors pair well with cases for complete coverage. Together, they provide comprehensive protection against the accidental drops that happen during busy campus days.
 
-[View Deal](#)
+<AffiliateLink variant="neutral" href="#">View Deal</AffiliateLink>
 
 ## Study-Friendly Additions
 

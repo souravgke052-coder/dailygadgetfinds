@@ -65,7 +65,7 @@ For most users, a GaN charger is worth the slightly higher price for the conveni
 - Premium Apple pricing
 - Limited wattage for larger devices
 
-[Buy Now](#)
+<AffiliateLink variant="primary" href="#">Buy Now</AffiliateLink>
 
 ### Anker Nano 20W PIQ 3.0
 **Best for:** Android and iPhone users who want maximum portability
@@ -87,7 +87,7 @@ For most users, a GaN charger is worth the slightly higher price for the conveni
 - No USB-A compatibility
 - Can get warm during extended use
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 ### Spigen 27W ArcStation Pro GaN
 **Best for:** Samsung Galaxy and Google Pixel owners
@@ -108,7 +108,7 @@ For most users, a GaN charger is worth the slightly higher price for the conveni
 - Single port only
 - 27W may limit some newer Samsung flagships
 
-[Buy Now](#)
+<AffiliateLink variant="primary" href="#">Buy Now</AffiliateLink>
 
 ### Anker 30W Nano GaN
 **Best for:** iPad, Nintendo Switch, and tablet users
@@ -130,7 +130,7 @@ For most users, a GaN charger is worth the slightly higher price for the conveni
 - Single port only
 - Premium price for the wattage
 
-[View Deal](#)
+<AffiliateLink variant="neutral" href="#">View Deal</AffiliateLink>
 
 ### UGREEN 65W GaN X Multi-Port
 **Best for:** Users who need to charge a laptop and phone simultaneously
@@ -152,7 +152,7 @@ For most users, a GaN charger is worth the slightly higher price for the conveni
 - Needs thick cable for 65W (5A rated)
 - Pricey compared to basic chargers
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 ## Who Should Buy What Wattage?
 

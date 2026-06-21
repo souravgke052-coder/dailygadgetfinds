@@ -57,7 +57,7 @@ Our testing focused on what matters most for daily use:
 - 60W max (not enough for laptops)
 - Slightly thicker than budget options
 
-[Buy Now](https://link.amazon/B05k7leqU)
+<AffiliateLink variant="primary" href="https://link.amazon/B077akqn3">Check Price on Amazon</AffiliateLink>
 
 #### Spigen USB-C to USB-C (100W E-Marker)
 **Best for:** Users who need laptop charging capability
@@ -79,7 +79,7 @@ Our testing focused on what matters most for daily use:
 - Heavier than lighter cables
 - Limited color options
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 ### Lightning Cables
 
@@ -106,7 +106,7 @@ Our testing focused on what matters most for daily use:
 - Only available in white
 - Prone to fraying at connector
 
-[Buy Now](#)
+<AffiliateLink variant="primary" href="#">Buy Now</AffiliateLink>
 
 #### Anker PowerLine II Lightning
 **Best for:** iPhone users who want durability at reasonable price
@@ -130,7 +130,7 @@ Our testing focused on what matters most for daily use:
 - Apple's official cable still slightly faster in some tests
 - 6-foot version may be too long for some
 
-[View Deal](#)
+<AffiliateLink variant="neutral" href="#">View Deal</AffiliateLink>
 
 ### USB-A to USB-C Cables
 
@@ -156,7 +156,7 @@ Our testing focused on what matters most for daily use:
 - No fast charging for many phones
 - Feels cheap compared to braided
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 #### Anker PowerLine USB-A to USB-C (60W)
 **Best for:** Users with USB-A chargers who need faster charging
@@ -178,7 +178,7 @@ Our testing focused on what matters most for daily use:
 - 60W through USB-A is near maximum
 - Data speeds limited to USB 2.0
 
-[Buy Now](#)
+<AffiliateLink variant="primary" href="#">Buy Now</AffiliateLink>
 
 ### USB-A to Lightning (MFi)
 
@@ -203,7 +203,7 @@ Our testing focused on what matters most for daily use:
 - Limited to USB-A devices
 - 4-foot length shorter than alternatives
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 ## Length Comparison
 

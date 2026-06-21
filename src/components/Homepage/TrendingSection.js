@@ -6,32 +6,32 @@ const trendingProducts = [
   {
     title: '65W GaN Chargers',
     description: 'Compact, efficient charging for laptops and phones',
-    href: '/blog/65w-gan-charger-guide',
+    href: '/blog/top-fast-chargers',
     badge: 'Hot',
   },
   {
     title: '20000mAh Power Banks',
     description: 'High capacity portable power for travel and daily use',
-    href: '/blog/20000mah-power-bank-comparison',
+    href: '/blog/best-power-banks-under-1500',
     badge: 'Popular',
   },
   {
     title: 'ANC Earbuds',
     description: 'Active noise cancellation for immersive audio experience',
-    href: '/blog/best-anc-earbuds',
+    href: '/blog/best-earbuds-for-daily-use',
     badge: 'Trending',
   },
   {
     title: 'MagSafe Stands',
     description: 'Stable magnetic stands for iPhone and accessories',
-    href: '/blog/magsafe-stand-recommendations',
+    href: '/blog/must-have-accessories',
     badge: 'New',
   },
 ];
 
 const gridStyle = {
   display: 'grid',
-  gridTemplateColumns: 'repeat(4, 1fr)',
+  gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))',
   gap: 'var(--spacing-6)',
 };
 

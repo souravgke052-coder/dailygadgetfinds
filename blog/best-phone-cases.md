@@ -54,7 +54,7 @@ We evaluated cases based on real-world protection and usability:
 - Adds noticeable bulk over naked phone
 - Limited color options
 
-[Buy Now](#)
+<AffiliateLink variant="primary" href="#">Buy Now</AffiliateLink>
 
 #### ESR Gear Shift (Ultra Thin)
 **Best for:** Minimalist users who want the thinnest possible protection
@@ -76,7 +76,7 @@ We evaluated cases based on real-world protection and usability:
 - Less grip than textured alternatives
 - Can stretch over time
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 ### Rugged Cases
 
@@ -100,7 +100,7 @@ We evaluated cases based on real-world protection and usability:
 - Heavy compared to slim options
 - Kickstand can be unnecessary
 
-[Buy Now](#)
+<AffiliateLink variant="primary" href="#">Buy Now</AffiliateLink>
 
 #### Caseology Vault (Rugged)
 **Best for:** Protective case that doesn't look overly rugged
@@ -122,7 +122,7 @@ We evaluated cases based on real-world protection and usability:
 - Limited to iPhone sizing
 - No built-in kickstand
 
-[View Deal](#)
+<AffiliateLink variant="neutral" href="#">View Deal</AffiliateLink>
 
 ### Clear Cases
 
@@ -146,7 +146,7 @@ We evaluated cases based on real-world protection and usability:
 - Less grip than solid cases
 - May attract fingerprints
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 #### Ringke Onyx (Clear)
 **Best for:** Budget clear case with good protection
@@ -168,7 +168,7 @@ We evaluated cases based on real-world protection and usability:
 - May yellow faster than Spigen
 - Button covers slightly stiff
 
-[Buy Now](#)
+<AffiliateLink variant="primary" href="#">Buy Now</AffiliateLink>
 
 ### Premium Cases
 
@@ -193,7 +193,7 @@ We evaluated cases based on real-world protection and usability:
 - No drop protection rating
 - Leather wears with use
 
-[Buy Now](#)
+<AffiliateLink variant="primary" href="#">Buy Now</AffiliateLink>
 
 #### ESR 15W MagSafe Compatible Clear Case
 **Best for:** Users who want strong MagSafe without the Apple price
@@ -215,7 +215,7 @@ We evaluated cases based on real-world protection and usability:
 - Slightly thicker than Apple case
 - Limited color options
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 ## Who Should Buy What?
 

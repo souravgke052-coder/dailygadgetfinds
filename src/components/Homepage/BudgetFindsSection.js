@@ -7,28 +7,28 @@ const budgetProducts = [
   {
     title: 'Braided USB-C Cable',
     description: 'Durable, tangle-free charging cable with fast data transfer',
-    href: '/blog/best-budget-usb-cable',
+    href: '/blog/best-charging-cable',
     badge: 'Under ₹299',
     price: '₹299',
   },
   {
     title: 'Portable Phone Stand',
     description: 'Adjustable angle stand for desk setup and video calls',
-    href: '/blog/best-budget-phone-stand',
+    href: '/blog/desk-setup-under-budget',
     badge: 'Under ₹499',
     price: '₹449',
   },
   {
     title: 'Car Charger 18W',
     description: 'Dual port car charger with fast charging support',
-    href: '/blog/best-car-charger-under-500',
+    href: '/blog/top-fast-chargers',
     badge: 'Under ₹599',
     price: '₹549',
   },
   {
     title: 'Slim Phone Case',
     description: 'Minimalist protection with grip and wireless charging support',
-    href: '/blog/best-slim-phone-case-budget',
+    href: '/blog/best-phone-cases',
     badge: 'Under ₹399',
     price: '₹349',
   },
@@ -50,7 +50,7 @@ export default function BudgetFindsSection() {
 
   const gridStyle = {
     display: 'grid',
-    gridTemplateColumns: 'repeat(4, 1fr)',
+    gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))',
     gap: 'var(--spacing-6)',
   };
 

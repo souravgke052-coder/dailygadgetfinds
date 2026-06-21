@@ -57,7 +57,7 @@ Our daily use criteria prioritize real-world usability:
 - Premium Apple pricing
 - Less customization for non-Apple users
 
-[Buy Now](#)
+<AffiliateLink variant="primary" href="#">Buy Now</AffiliateLink>
 
 ### Samsung Galaxy Buds 2 Pro
 **Best for:** Samsung Galaxy users who want hi-fi audio and solid ANC
@@ -82,7 +82,7 @@ Our daily use criteria prioritize real-world usability:
 - Touch controls can be oversensitive
 - Higher price than competitors
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 ## Mid-Range Picks
 
@@ -109,7 +109,7 @@ Our daily use criteria prioritize real-world usability:
 - No wireless charging in this version
 - Call quality average in noisy environments
 
-[View Deal](#)
+<AffiliateLink variant="neutral" href="#">View Deal</AffiliateLink>
 
 ### JBL Tune 230NC
 **Best for:** Users who prioritize battery life above all else
@@ -134,7 +134,7 @@ Our daily use criteria prioritize real-world usability:
 - No wireless charging
 - Call quality just adequate
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 ## Budget Picks
 
@@ -161,7 +161,7 @@ Our daily use criteria prioritize real-world usability:
 - App support less refined
 - Build quality reflects budget pricing
 
-[Buy Now](#)
+<AffiliateLink variant="primary" href="#">Buy Now</AffiliateLink>
 
 ## Who Should Buy What?
 

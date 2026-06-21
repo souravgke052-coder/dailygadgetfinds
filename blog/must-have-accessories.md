@@ -37,7 +37,7 @@ Your phone came with a charger, but having a spare or upgraded charger provides 
 
 Anker, Aukey, and similar reputable brands offer chargers that balance speed, safety, and durability.
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 ### 2. Power Bank
 
@@ -48,7 +48,7 @@ A portable power bank is essential for anyone who's ever been stranded with a de
 - 10000mAh: 2-3 charges, good balance of capacity and portability
 - 20000mAh: Multiple charges, but heavier and may exceed carry-on limits for flights
 
-[Buy Now](#)
+<AffiliateLink variant="primary" href="#">Buy Now</AffiliateLink>
 
 ### 3. Protective Case
 
@@ -60,7 +60,7 @@ A case is your phone's first line of defense against drops, scratches, and daily
 - Wallet cases that combine protection with card storage
 - Clear cases to show off your phone's design while protecting it
 
-[View Deal](#)
+<AffiliateLink variant="neutral" href="#">View Deal</AffiliateLink>
 
 ### 4. Screen Protector
 
@@ -90,13 +90,13 @@ A desk phone stand improves posture during video calls and makes content viewing
 
 A car mount keeps your phone accessible and visible for navigation while driving safely. Magnetic mounts offer quick attachment, while cradle-style mounts work with any phone case.
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 ### Quality Earbuds
 
 Whether commuting, exercising, or simply wanting privacy, wireless earbuds free you from tangled wires. Look for comfortable fit, decent battery life, and clear audio quality.
 
-[Buy Now](#)
+<AffiliateLink variant="primary" href="#">Buy Now</AffiliateLink>
 
 ### Portable Fan (Hot Climates)
 

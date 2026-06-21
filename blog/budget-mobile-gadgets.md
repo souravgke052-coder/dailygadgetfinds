@@ -44,7 +44,7 @@ A 20W charger hits the sweet spot for budget fast charging. It provides noticeab
 
 Stick to well-known brands even in the budget range. Cheap, unbranded chargers can damage batteries or pose safety risks.
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 ## Cables Under ₹999
 
@@ -59,7 +59,7 @@ A quality braided cable offers significantly better durability than plastic alte
 
 These cables handle daily use and travel without the fragility that plagues cheaper alternatives.
 
-[Buy Now](#)
+<AffiliateLink variant="primary" href="#">Buy Now</AffiliateLink>
 
 ### Braided Lightning Cable
 
@@ -67,7 +67,7 @@ For iPhone users, MFi-certified braided Lightning cables provide reliable perfor
 
 The certification cost means certified cables cost slightly more than uncertified alternatives, but the reliability is worth it.
 
-[Buy Now](#)
+<AffiliateLink variant="primary" href="#">Buy Now</AffiliateLink>
 
 ## Cases Under ₹999
 
@@ -82,7 +82,7 @@ Budget TPU cases provide solid basic protection without bulk. Look for:
 
 At this price point, you won't get premium materials, but you will get reliable drop protection for everyday accidents.
 
-[View Deal](#)
+<AffiliateLink variant="neutral" href="#">View Deal</AffiliateLink>
 
 ## Stands Under ₹999
 
@@ -98,7 +98,7 @@ Simple adjustable phone stands offer excellent value. They hold your phone at co
 
 These basic stands do everything most users need without the premium pricing of aluminum or multi-device stands.
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 ## Earbuds Under ₹999
 
@@ -113,7 +113,7 @@ True wireless stereo earbuds have become affordable enough for the budget segmen
 
 Budget TWS won't match premium audio quality, but they free you from tangled wires and work well for calls and casual media.
 
-[Buy Now](#)
+<AffiliateLink variant="primary" href="#">Buy Now</AffiliateLink>
 
 ## Power Banks Under ₹999
 
@@ -128,7 +128,7 @@ A 10000mAh power bank in this range offers basic functionality without frills. F
 
 This capacity provides roughly 2-3 full charges for most phones, handling daily backup power needs.
 
-[View Deal](#)
+<AffiliateLink variant="neutral" href="#">View Deal</AffiliateLink>
 
 ## How to Choose: Build Quality vs Brand Name
 

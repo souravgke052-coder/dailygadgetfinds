@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from '@docusaurus/Link';
 
 const styles = {
   card: {
@@ -20,8 +21,19 @@ const styles = {
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'center',
-    fontSize: 'var(--font-size-sm)',
+    flexDirection: 'column',
+    gap: '0.5rem',
     color: 'var(--color-text-tertiary)',
+  },
+  imageIcon: {
+    fontSize: '32px',
+    lineHeight: 1,
+  },
+  imageLabel: {
+    fontSize: 'var(--font-size-xs)',
+    fontWeight: 500,
+    textTransform: 'uppercase',
+    letterSpacing: '0.05em',
   },
   body: {
     padding: 'var(--spacing-6)',
@@ -63,11 +75,24 @@ const styles = {
     transition: 'all var(--transition-fast)',
     border: 'none',
     cursor: 'pointer',
+    minHeight: '44px',
   },
 };
 
-function ProductCard({ title, description, category, link }) {
+function ProductCard({ title, description, category, href, badge, price }) {
   const [isHovered, setIsHovered] = React.useState(false);
+
+  const isExternal = href && (href.startsWith('http') || href.startsWith('//'));
+  const linkProps = isExternal
+    ? { target: '_blank', rel: 'nofollow sponsored noopener noreferrer' }
+    : {};
+
+  const Wrapper = href ? (isExternal ? 'a' : Link) : 'div';
+  const wrapperProps = href
+    ? isExternal
+      ? { href, ...linkProps }
+      : { to: href }
+    : {};
 
   return (
     <div
@@ -78,16 +103,36 @@ function ProductCard({ title, description, category, link }) {
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
     >
-      <div style={styles.imagePlaceholder}>
-        [Product Image Placeholder]
+      <div style={styles.imagePlaceholder} aria-hidden="true">
+        <span style={styles.imageIcon}>📦</span>
+        <span style={styles.imageLabel}>Review</span>
       </div>
       <div style={styles.body}>
         {category && <span style={styles.category}>{category}</span>}
+        {badge && !category && <span style={styles.category}>{badge}</span>}
         <h3 style={styles.title}>{title}</h3>
         {description && <p style={styles.description}>{description}</p>}
-        <a href={link || '#'} style={styles.button}>
-          View Product
-        </a>
+        {price && (
+          <p style={{ ...styles.description, fontWeight: 600, color: 'var(--color-text-primary)', marginBottom: 'var(--spacing-4)' }}>
+            {price}
+          </p>
+        )}
+        {href ? (
+          <Wrapper
+            style={styles.button}
+            onMouseEnter={(e) => {
+              e.currentTarget.style.backgroundColor = 'var(--color-accent-hover)';
+              e.currentTarget.style.transform = 'translateY(-1px)';
+            }}
+            onMouseLeave={(e) => {
+              e.currentTarget.style.backgroundColor = 'var(--color-accent)';
+              e.currentTarget.style.transform = 'translateY(0)';
+            }}
+            {...wrapperProps}
+          >
+            {isExternal ? 'View Product' : 'Read Review'}
+          </Wrapper>
+        ) : null}
       </div>
     </div>
   );

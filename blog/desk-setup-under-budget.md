@@ -35,7 +35,7 @@ A phone stand is the foundation of any desk setup. It keeps your phone visible a
 
 Look for stands with adjustable angles so you can switch between viewing modes depending on your task.
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 ### Cable Clips and Organizers
 
@@ -43,7 +43,7 @@ Cable management transforms a messy desk into an organized one. Cable clips hold
 
 Small adhesive cable organizers along the desk edge keep cables routed exactly where you want them. This makes plugging and unplugging devices effortless.
 
-[Buy Now](#)
+<AffiliateLink variant="primary" href="#">Buy Now</AffiliateLink>
 
 ### Wireless Charger (Optional)
 
@@ -53,7 +53,7 @@ Position your wireless charger at a consistent spot on your desk. Making chargin
 
 This is optional but highly recommended for the convenience factor.
 
-[View Deal](#)
+<AffiliateLink variant="neutral" href="#">View Deal</AffiliateLink>
 
 ### Desk Mat
 

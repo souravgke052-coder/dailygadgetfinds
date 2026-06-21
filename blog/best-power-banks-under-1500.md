@@ -52,7 +52,7 @@ We evaluated these power banks on several factors that matter most to budget-con
 - Slightly heavier than competitors
 - Only one USB-C port
 
-[View Deal](#)
+<AffiliateLink variant="neutral" href="#">View Deal</AffiliateLink>
 
 ### Realme 20000mAh Power Bank
 **Best for:** Heavy users who need multiple charges without carrying multiple packs
@@ -73,7 +73,7 @@ We evaluated these power banks on several factors that matter most to budget-con
 - Bulkier and heavier for daily carry
 - May not fit in smaller bags
 
-[View Deal](#)
+<AffiliateLink variant="neutral" href="#">View Deal</AffiliateLink>
 
 ### Ambrane 10000mAh Stylist
 **Best for:** First-time power bank buyers on the tightest budgets
@@ -94,7 +94,7 @@ We evaluated these power banks on several factors that matter most to budget-con
 - No USB-C or fast charging
 - Slower charging speeds for modern phones
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 ### Anker PowerCore Select 10000mAh
 **Best for:** Users who prioritize reliability and brand reputation
@@ -116,7 +116,7 @@ We evaluated these power banks on several factors that matter most to budget-con
 - No fast charging capability
 - Premium price even in budget segment
 
-[View Deal](#)
+<AffiliateLink variant="neutral" href="#">View Deal</AffiliateLink>
 
 ### URBN 20000mAh Power Bank
 **Best for:** Users who want high capacity without the premium price tag
@@ -137,7 +137,7 @@ We evaluated these power banks on several factors that matter most to budget-con
 - Heavy for regular commuting
 - Design is functional but plain
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 ## Who Should Buy a Budget Power Bank?
 

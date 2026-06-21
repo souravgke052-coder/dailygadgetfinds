@@ -37,7 +37,7 @@ Look for chargers with:
 - Total output of 30W or higher for simultaneous device charging
 - Compact design that fits easily in a bag pocket
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 ### Compact Power Bank
 
@@ -49,7 +49,7 @@ A portable power bank is non-negotiable for travelers. Long flights, train journ
 
 Many airlines limit power banks to 100Wh (roughly 27000mAh) in carry-on baggage. Check your airline's specific policies before packing.
 
-[Buy Now](#)
+<AffiliateLink variant="primary" href="#">Buy Now</AffiliateLink>
 
 ### Universal Adapter (Optional)
 
@@ -76,7 +76,7 @@ Look for pouches with:
 - Water-resistant material
 - Compact enough to fit in a front pocket
 
-[View Deal](#)
+<AffiliateLink variant="neutral" href="#">View Deal</AffiliateLink>
 
 ### Travel Cable Kit
 
@@ -99,7 +99,7 @@ Travel exposes your phone to increased risk of drops and impacts. A rugged case 
 - Port covers to keep out dust and debris
 - Compatible with car mounts if you plan to navigate
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 ### Waterproof Pouch
 
@@ -111,7 +111,7 @@ Choose between:
 - Lanyard-style pouches for easy carrying
 - Clear windows for camera access
 
-[View Deal](#)
+<AffiliateLink variant="neutral" href="#">View Deal</AffiliateLink>
 
 ## Entertainment and Convenience
 
@@ -125,7 +125,7 @@ Long flights and layovers feel shorter with entertainment. Compact wireless earb
 - Active noise cancellation for flight noise
 - Clear microphone for calls
 
-[Buy Now](#)
+<AffiliateLink variant="primary" href="#">Buy Now</AffiliateLink>
 
 ### Airplane Phone Stand
 
@@ -133,7 +133,7 @@ For long flights, a compact phone stand makes in-flight entertainment more comfo
 
 Look for adjustable designs that accommodate different phone sizes and viewing preferences.
 
-[Check Price](#)
+<AffiliateLink variant="secondary" href="#">Check Price</AffiliateLink>
 
 ### Car Phone Mount
 
