@@ -57,7 +57,7 @@ Our testing focused on what matters most for daily use:
 - 60W max (not enough for laptops)
 - Slightly thicker than budget options
 
-[Buy Now](#)
+[Buy Now](https://link.amazon/B05k7leqU)
 
 #### Spigen USB-C to USB-C (100W E-Marker)
 **Best for:** Users who need laptop charging capability
@@ -67,7 +67,6 @@ Our testing focused on what matters most for daily use:
 - Power: 100W with E-marker chip
 - Data: 480Mbps (USB 2.0)
 - Material: Nylon braided with aluminum housing
-
 **Pros:**
 - 100W power delivery for laptops
 - E-marker chip for safe high-wattage charging
